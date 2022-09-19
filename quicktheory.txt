@@ -1,0 +1,8 @@
+
+python print is always done on a newline , if we need to prevent it , we use end="" as a argument in print statement
+
+print("hello",end="")
+print("world")
+
+output = "helloworld"
+
