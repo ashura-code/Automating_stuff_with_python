@@ -6,3 +6,7 @@ print("world")
 
 output = "helloworld"
 
+
+
+
+Manipulating strings
