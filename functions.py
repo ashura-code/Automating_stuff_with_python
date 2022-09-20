@@ -11,7 +11,7 @@ while True:
     guess = int(input())
     i = i + 1
     if guess == num:
-        print("congragulations, you have guessed the correct number in ", i, " chances")
+        print("congratulations, you have guessed the correct number in ", i, " chances")
         break
     if guess < num:
         print("low")
