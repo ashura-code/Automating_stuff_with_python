@@ -9,4 +9,4 @@ output = "helloworld"
 
 
 
-Manipulating strings
+Manipulating strings.
