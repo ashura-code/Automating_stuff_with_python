@@ -1,14 +1,13 @@
 import requests
 import bs4
 
-req = requests.get('https://www.imdb.com/chart/top/')
+req = requests.get('http://127.0.0.1:5500/ok.html')
 
 soup = bs4.BeautifulSoup(req.text, 'html.parser')
 
-element = soup.select('tbody')
+element = soup.select('h1')
 
 print(element)
-print("hai")
 
 
 
