@@ -10,7 +10,7 @@ res = requests.get(f'https://xkcd.com/{i}/')   # requesting html to xkcd comics
 soup = bs4.BeautifulSoup(res.text, 'html.parser')  # Converting request element to soup element
 element = soup.select('#comic img')   # from the soup element , selecting the element that has the link of the comic
 link = "https:" + (element[0].get('src'))  # the acquired link element gives us the link without the https: at the front so we are adding it ourselves.
-print(link)  # printing the final image link
+print(link)  # printing the final image link.
 
 
 # Downloading the image
