@@ -1,0 +1,536 @@
+1666162388150	geckodriver	INFO	Listening on 127.0.0.1:60753
+1666162388430	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileTHVj8T"
+1666162389722	Marionette	INFO	Marionette enabled
+2022-10-19 12:23:09.936 plugin-container[51062:34594804] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 12:23:09.936 plugin-container[51062:34594804] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 12:23:09.961 plugin-container[51062:34594804] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 12:23:09.961 plugin-container[51062:34594804] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 12:23:09.962 plugin-container[51062:34594811] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 12:23:09.962 plugin-container[51062:34594811] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666162390052	Marionette	INFO	Listening on port 60760
+Read port: 60760
+1666162390260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileTHVj8T/search.json.mozlz4", (void 0)))
+[2022-10-19T06:53:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-19T06:53:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-19T06:53:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-19T06:53:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-19T06:53:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-19T06:53:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-10-19 06:53:44.594 plugin-container[51089:34595598] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 06:53:44.594 plugin-container[51089:34595598] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 06:53:44.598 plugin-container[51089:34595598] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 06:53:44.598 plugin-container[51089:34595598] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 06:53:44.598 plugin-container[51089:34595599] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 06:53:44.598 plugin-container[51089:34595599] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[2022-10-19T06:53:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-19T06:53:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1666162736796	geckodriver	INFO	Listening on 127.0.0.1:61119
+1666162737815	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileMcJvTg"
+2022-10-19 12:28:58.665 plugin-container[51206:34599557] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 12:28:58.666 plugin-container[51206:34599557] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666162738697	Marionette	INFO	Marionette enabled
+2022-10-19 12:28:58.767 plugin-container[51206:34599557] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 12:28:58.767 plugin-container[51206:34599557] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 12:28:58.767 plugin-container[51206:34599587] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 12:28:58.767 plugin-container[51206:34599587] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666162738927	Marionette	INFO	Listening on port 61126
+Read port: 61126
+1666162739138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileMcJvTg/search.json.mozlz4", (void 0)))
+1666162746221	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-19T06:59:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-19T06:59:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-19T06:59:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-19T06:59:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-19T06:59:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-19T06:59:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-19T06:59:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+2022-10-19 06:59:08.481 plugin-container[51222:34600009] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 06:59:08.481 plugin-container[51222:34600009] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 06:59:08.492 plugin-container[51222:34600009] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 06:59:08.492 plugin-container[51222:34600009] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 06:59:08.492 plugin-container[51222:34600008] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 06:59:08.492 plugin-container[51222:34600008] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[Child 51212, MediaDecoderStateMachine #1] WARNING: Decoder=117048100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 51212, MediaDecoderStateMachine #1] WARNING: Decoder=117048100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 1169: TypeError: toggle is null
+1666162926355	geckodriver	INFO	Listening on 127.0.0.1:61359
+1666162927378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilemIyDqc"
+1666162928471	Marionette	INFO	Marionette enabled
+2022-10-19 12:32:08.593 plugin-container[51353:34603125] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 12:32:08.593 plugin-container[51353:34603125] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 12:32:08.619 plugin-container[51353:34603125] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 12:32:08.619 plugin-container[51353:34603125] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 12:32:08.619 plugin-container[51353:34603157] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 12:32:08.619 plugin-container[51353:34603157] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666162928714	Marionette	INFO	Listening on port 61366
+Read port: 61366
+1666162928893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilemIyDqc/search.json.mozlz4", (void 0)))
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666162931868	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+1666164449376	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1666165240175	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1666165765949	Marionette	INFO	Stopped listening on port 61126
+1666165769498	Marionette	INFO	Stopped listening on port 61366
+1666165771966	Marionette	INFO	Stopped listening on port 60760
+1666168108952	geckodriver	INFO	Listening on 127.0.0.1:62111
+1666168109976	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilerOZNy8"
+1666168111439	Marionette	INFO	Marionette enabled
+2022-10-19 13:58:31.618 plugin-container[51805:34631028] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 13:58:31.618 plugin-container[51805:34631028] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 13:58:31.658 plugin-container[51805:34631028] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 13:58:31.658 plugin-container[51805:34631028] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 13:58:31.658 plugin-container[51805:34631026] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 13:58:31.658 plugin-container[51805:34631026] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666168111714	Marionette	INFO	Listening on port 62118
+Read port: 62118
+1666168111946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilerOZNy8/search.json.mozlz4", (void 0)))
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666168115622	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666168357736	geckodriver	INFO	Listening on 127.0.0.1:62245
+1666168358761	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileyOOjSk"
+1666168359781	Marionette	INFO	Marionette enabled
+1666168359854	Marionette	INFO	Listening on port 62252
+Read port: 62252
+2022-10-19 14:02:39.920 plugin-container[51909:34634437] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:02:39.920 plugin-container[51909:34634437] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:02:40.055 plugin-container[51909:34634437] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:02:40.055 plugin-container[51909:34634437] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:02:40.055 plugin-container[51909:34634481] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:02:40.055 plugin-container[51909:34634481] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666168360115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileyOOjSk/search.json.mozlz4", (void 0)))
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666168363312	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666168508719	geckodriver	INFO	Listening on 127.0.0.1:62317
+1666168509735	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileB6Rvl7"
+2022-10-19 14:05:10.565 plugin-container[51981:34636402] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:05:10.565 plugin-container[51981:34636402] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:05:10.570 plugin-container[51981:34636402] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:05:10.570 plugin-container[51981:34636402] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:05:10.570 plugin-container[51981:34636407] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:05:10.570 plugin-container[51981:34636407] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666168510593	Marionette	INFO	Marionette enabled
+1666168510649	Marionette	INFO	Listening on port 62324
+Read port: 62324
+1666168510978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileB6Rvl7/search.json.mozlz4", (void 0)))
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666168514510	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666168534216	Marionette	INFO	Stopped listening on port 62324
+1666168538388	geckodriver	INFO	Listening on 127.0.0.1:62386
+1666168539413	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilemQvvo2"
+2022-10-19 14:05:40.037 plugin-container[52021:34637369] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:05:40.037 plugin-container[52021:34637369] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:05:40.041 plugin-container[52021:34637369] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:05:40.041 plugin-container[52021:34637369] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:05:40.041 plugin-container[52021:34637375] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:05:40.041 plugin-container[52021:34637375] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666168540061	Marionette	INFO	Marionette enabled
+1666168540106	Marionette	INFO	Listening on port 62393
+Read port: 62393
+1666168540406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilemQvvo2/search.json.mozlz4", (void 0)))
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666168543285	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666168573510	geckodriver	INFO	Listening on 127.0.0.1:62446
+1666168574525	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileteNglX"
+2022-10-19 14:06:15.208 plugin-container[52039:34638004] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:06:15.208 plugin-container[52039:34638004] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:06:15.222 plugin-container[52039:34638004] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:06:15.223 plugin-container[52039:34638004] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:06:15.223 plugin-container[52039:34638002] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:06:15.223 plugin-container[52039:34638002] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666168575228	Marionette	INFO	Marionette enabled
+1666168575303	Marionette	INFO	Listening on port 62453
+Read port: 62453
+1666168575598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileteNglX/search.json.mozlz4", (void 0)))
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666168578141	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666168588178	Marionette	INFO	Stopped listening on port 62393
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666168967121	geckodriver	INFO	Listening on 127.0.0.1:62548
+1666168968137	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileWglUqL"
+2022-10-19 14:12:48.877 plugin-container[52082:34640937] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:12:48.877 plugin-container[52082:34640937] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:12:48.881 plugin-container[52082:34640937] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:12:48.881 plugin-container[52082:34640937] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:12:48.881 plugin-container[52082:34640935] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:12:48.881 plugin-container[52082:34640935] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666168968901	Marionette	INFO	Marionette enabled
+1666168968948	Marionette	INFO	Listening on port 62566
+Read port: 62566
+1666168969172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileWglUqL/search.json.mozlz4", (void 0)))
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666168971578	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 391))
+1666169103534	geckodriver	INFO	Listening on 127.0.0.1:62633
+1666169104559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileuTZsHS"
+2022-10-19 14:15:05.308 plugin-container[52104:34642554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:15:05.308 plugin-container[52104:34642554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:15:05.323 plugin-container[52104:34642554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:15:05.323 plugin-container[52104:34642554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:15:05.323 plugin-container[52104:34642562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:15:05.323 plugin-container[52104:34642562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666169105330	Marionette	INFO	Marionette enabled
+1666169105402	Marionette	INFO	Listening on port 62640
+Read port: 62640
+1666169105661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileuTZsHS/search.json.mozlz4", (void 0)))
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169108088	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169132067	Marionette	INFO	Stopped listening on port 62566
+1666169134477	Marionette	INFO	Stopped listening on port 62453
+1666169136346	Marionette	INFO	Stopped listening on port 62252
+1666169145658	Marionette	INFO	Stopped listening on port 62640
+1666169149301	Marionette	INFO	Stopped listening on port 62118
+1666169155158	geckodriver	INFO	Listening on 127.0.0.1:62690
+1666169156183	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileYrSLOB"
+2022-10-19 14:15:56.793 plugin-container[52138:34643633] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:15:56.793 plugin-container[52138:34643633] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:15:56.797 plugin-container[52138:34643633] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:15:56.797 plugin-container[52138:34643633] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:15:56.797 plugin-container[52138:34643639] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:15:56.797 plugin-container[52138:34643639] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666169156832	Marionette	INFO	Marionette enabled
+1666169156874	Marionette	INFO	Listening on port 62697
+Read port: 62697
+1666169157162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileYrSLOB/search.json.mozlz4", (void 0)))
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169159892	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169222633	geckodriver	INFO	Listening on 127.0.0.1:63224
+1666169223661	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilebCNQsP"
+2022-10-19 14:17:04.351 plugin-container[52161:34644600] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:17:04.352 plugin-container[52161:34644600] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:17:04.356 plugin-container[52161:34644600] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:17:04.356 plugin-container[52161:34644600] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:17:04.356 plugin-container[52161:34644606] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:17:04.356 plugin-container[52161:34644606] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666169224374	Marionette	INFO	Marionette enabled
+1666169224418	Marionette	INFO	Listening on port 63231
+Read port: 63231
+1666169224628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilebCNQsP/search.json.mozlz4", (void 0)))
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169227343	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169544358	Marionette	INFO	Stopped listening on port 63231
+1666169629357	geckodriver	INFO	Listening on 127.0.0.1:63710
+1666169630378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilexYZmpY"
+2022-10-19 14:23:51.169 plugin-container[52223:34648064] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:23:51.169 plugin-container[52223:34648064] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:23:51.174 plugin-container[52223:34648064] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:23:51.174 plugin-container[52223:34648064] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:23:51.175 plugin-container[52223:34648062] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:23:51.175 plugin-container[52223:34648062] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666169631193	Marionette	INFO	Marionette enabled
+1666169631258	Marionette	INFO	Listening on port 63718
+Read port: 63718
+1666169631653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilexYZmpY/search.json.mozlz4", (void 0)))
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169634939	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169637425	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169733193	geckodriver	INFO	Listening on 127.0.0.1:63796
+1666169734212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileBV9Oia"
+2022-10-19 14:25:35.055 plugin-container[52244:34649054] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:25:35.055 plugin-container[52244:34649054] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:25:35.059 plugin-container[52244:34649054] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:25:35.059 plugin-container[52244:34649054] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:25:35.060 plugin-container[52244:34649055] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:25:35.060 plugin-container[52244:34649055] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666169735076	Marionette	INFO	Marionette enabled
+1666169735129	Marionette	INFO	Listening on port 63803
+Read port: 63803
+1666169735336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileBV9Oia/search.json.mozlz4", (void 0)))
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169738116	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169739671	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169740126	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169740562	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169741316	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169741766	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169742201	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169742630	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169743071	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169743513	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169744106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169801974	geckodriver	INFO	Listening on 127.0.0.1:64006
+1666169802996	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilefiRJLI"
+2022-10-19 14:26:43.717 plugin-container[52288:34650571] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:26:43.717 plugin-container[52288:34650571] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:26:43.721 plugin-container[52288:34650571] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:26:43.721 plugin-container[52288:34650571] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:26:43.721 plugin-container[52288:34650578] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:26:43.721 plugin-container[52288:34650578] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666169803741	Marionette	INFO	Marionette enabled
+1666169803787	Marionette	INFO	Listening on port 64013
+Read port: 64013
+1666169804006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilefiRJLI/search.json.mozlz4", (void 0)))
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169806256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666169808097	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1666170667216	Marionette	INFO	Stopped listening on port 64013
+1666170668821	Marionette	INFO	Stopped listening on port 63803
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.42, line 2: TypeError: loginData is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.geeksforgeeks.org."
+1666170786083	geckodriver	INFO	Listening on 127.0.0.1:64328
+1666170787103	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilerp2wGb"
+1666170788138	Marionette	INFO	Marionette enabled
+2022-10-19 14:43:08.236 plugin-container[52533:34660761] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:43:08.236 plugin-container[52533:34660761] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:43:08.271 plugin-container[52533:34660761] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:43:08.271 plugin-container[52533:34660761] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:43:08.272 plugin-container[52533:34660763] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:43:08.272 plugin-container[52533:34660763] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666170788371	Marionette	INFO	Listening on port 64335
+Read port: 64335
+1666170788560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilerp2wGb/search.json.mozlz4", (void 0)))
+1666170791686	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.42, line 2: TypeError: loginData is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.geeksforgeeks.org."
+console.error: "Unable to find target with innerWindowId:17179869186"
+console.error: "Unable to find target with innerWindowId:17179869186"
+console.error: "Unable to find target with innerWindowId:17179869211"
+console.error: "Unable to find target with innerWindowId:17179869211"
+console.error: "Unable to find target with innerWindowId:17179869211"
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.42, line 2: TypeError: loginData is undefined
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869212/layout126, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869212/inspectorActor4, type supportsHighlighters failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nsupportsEyeDropper@resource://devtools/client/inspector/inspector.js:1363:40\nsetupToolbar@resource://devtools/client/inspector/inspector.js:1381:42\nonRootNodeAvailable@resource://devtools/client/inspector/inspector.js:375:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869212/pagestyle122, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869212/pagestyle122, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869212/pagestyle122, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869212/pagestyle122, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Unable to find target with innerWindowId:17179869212"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:17179869212"
+console.error: "Unable to find target with innerWindowId:17179869211"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+1666171271548	geckodriver	INFO	Listening on 127.0.0.1:64525
+1666171272564	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilembGD5m"
+1666171273801	Marionette	INFO	Marionette enabled
+2022-10-19 14:51:13.920 plugin-container[52681:34665487] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:51:13.921 plugin-container[52681:34665487] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:51:13.947 plugin-container[52681:34665487] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:51:13.948 plugin-container[52681:34665487] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:51:13.948 plugin-container[52681:34665483] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:51:13.948 plugin-container[52681:34665483] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666171274051	Marionette	INFO	Listening on port 64532
+Read port: 64532
+1666171274252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilembGD5m/search.json.mozlz4", (void 0)))
+1666171278112	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.42, line 2: TypeError: loginData is undefined
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 391))
+1666171356263	geckodriver	INFO	Listening on 127.0.0.1:64654
+1666171357289	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofiled1nVY4"
+2022-10-19 14:52:37.971 plugin-container[52706:34666641] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:52:37.971 plugin-container[52706:34666641] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:52:37.976 plugin-container[52706:34666641] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:52:37.976 plugin-container[52706:34666641] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:52:37.976 plugin-container[52706:34666639] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:52:37.976 plugin-container[52706:34666639] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666171357999	Marionette	INFO	Marionette enabled
+1666171358045	Marionette	INFO	Listening on port 64661
+Read port: 64661
+1666171358262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofiled1nVY4/search.json.mozlz4", (void 0)))
+1666171363122	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.42, line 2: TypeError: loginData is undefined
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 391))
+1666171392669	Marionette	INFO	Stopped listening on port 64661
+1666171395458	Marionette	INFO	Stopped listening on port 64532
+1666171399361	Marionette	INFO	Stopped listening on port 64335
+1666171401200	Marionette	INFO	Stopped listening on port 63718
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "quit-application-granted" is finished, it is too late to register completion condition "ContentParent: id=111b6f000"
+1666171411006	geckodriver	INFO	Listening on 127.0.0.1:64776
+1666171412033	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileIzFFgK"
+2022-10-19 14:53:32.656 plugin-container[52736:34667768] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:53:32.657 plugin-container[52736:34667768] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:53:32.661 plugin-container[52736:34667768] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:53:32.661 plugin-container[52736:34667768] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:53:32.661 plugin-container[52736:34667774] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:53:32.661 plugin-container[52736:34667774] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666171412681	Marionette	INFO	Marionette enabled
+1666171412724	Marionette	INFO	Listening on port 64783
+Read port: 64783
+1666171413025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileIzFFgK/search.json.mozlz4", (void 0)))
+1666171416421	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.42, line 2: TypeError: loginData is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://authcdn.geeksforgeeks.org/js/typeahead.bundle.min.js, line 7: TypeError: a is undefined
+JavaScript error: https://auth.geeksforgeeks.org/?to=https://www.geeksforgeeks.org/, line 739: ReferenceError: $ is not defined
+1666171649558	geckodriver	INFO	Listening on 127.0.0.1:64907
+1666171650569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileBLYmlU"
+2022-10-19 14:57:31.375 plugin-container[52775:34670124] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:57:31.375 plugin-container[52775:34670124] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:57:31.381 plugin-container[52775:34670124] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:57:31.381 plugin-container[52775:34670124] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:57:31.381 plugin-container[52775:34670131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:57:31.381 plugin-container[52775:34670131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666171651402	Marionette	INFO	Marionette enabled
+1666171651447	Marionette	INFO	Listening on port 64914
+Read port: 64914
+1666171651655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileBLYmlU/search.json.mozlz4", (void 0)))
+1666171685451	geckodriver	INFO	Listening on 127.0.0.1:64997
+1666171686477	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilewRd8f8"
+2022-10-19 14:58:07.315 plugin-container[52804:34670960] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:58:07.316 plugin-container[52804:34670960] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:58:07.320 plugin-container[52804:34670960] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:58:07.320 plugin-container[52804:34670960] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:58:07.320 plugin-container[52804:34670962] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:58:07.320 plugin-container[52804:34670962] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666171687342	Marionette	INFO	Marionette enabled
+1666171687389	Marionette	INFO	Listening on port 65004
+Read port: 65004
+1666171687616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilewRd8f8/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.geeksforgeeks.org."
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 391))
+1666171752052	Marionette	INFO	Stopped listening on port 65004
+1666171754257	Marionette	INFO	Stopped listening on port 64914
+1666171756654	Marionette	INFO	Stopped listening on port 64783
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666171759655	geckodriver	INFO	Listening on 127.0.0.1:65107
+1666171760673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileXNHcuY"
+2022-10-19 14:59:21.438 plugin-container[52884:34672899] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:59:21.438 plugin-container[52884:34672899] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:59:21.487 plugin-container[52884:34672899] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:59:21.487 plugin-container[52884:34672899] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 14:59:21.488 plugin-container[52884:34672906] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 14:59:21.488 plugin-container[52884:34672906] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666171761545	Marionette	INFO	Marionette enabled
+1666171761784	Marionette	INFO	Listening on port 65114
+Read port: 65114
+1666171761958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofileXNHcuY/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.geeksforgeeks.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.geeksforgeeks.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.geeksforgeeks.org."
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.42, line 2: TypeError: loginData is undefined
+1666171915850	Marionette	INFO	Stopped listening on port 65114
+1666171923353	geckodriver	INFO	Listening on 127.0.0.1:65254
+1666171924378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilet3epIu"
+2022-10-19 15:02:05.003 plugin-container[52921:34674411] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 15:02:05.003 plugin-container[52921:34674411] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 15:02:05.007 plugin-container[52921:34674411] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 15:02:05.007 plugin-container[52921:34674411] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 15:02:05.007 plugin-container[52921:34674416] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 15:02:05.007 plugin-container[52921:34674416] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666171925028	Marionette	INFO	Marionette enabled
+1666171925073	Marionette	INFO	Listening on port 65261
+Read port: 65261
+1666171925281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilet3epIu/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.geeksforgeeks.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.geeksforgeeks.org."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666172133158	geckodriver	INFO	Listening on 127.0.0.1:65398
+1666172134175	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofile4m2ndZ"
+2022-10-19 15:05:34.857 plugin-container[53004:34676550] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 15:05:34.857 plugin-container[53004:34676550] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 15:05:34.861 plugin-container[53004:34676550] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 15:05:34.861 plugin-container[53004:34676550] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 15:05:34.862 plugin-container[53004:34676558] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 15:05:34.862 plugin-container[53004:34676558] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666172134881	Marionette	INFO	Marionette enabled
+1666172134925	Marionette	INFO	Listening on port 65405
+Read port: 65405
+1666172135141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofile4m2ndZ/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.geeksforgeeks.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.geeksforgeeks.org."
+1666172164116	Marionette	INFO	Stopped listening on port 65405
+1666172169735	geckodriver	INFO	Listening on 127.0.0.1:49176
+1666172170756	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilesuprk6"
+2022-10-19 15:06:11.428 plugin-container[53044:34677433] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 15:06:11.428 plugin-container[53044:34677433] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 15:06:11.432 plugin-container[53044:34677433] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 15:06:11.432 plugin-container[53044:34677433] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-19 15:06:11.432 plugin-container[53044:34677440] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-19 15:06:11.432 plugin-container[53044:34677440] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666172171453	Marionette	INFO	Marionette enabled
+1666172171498	Marionette	INFO	Listening on port 49183
+Read port: 49183
+1666172171735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vp/byg92bp539vfv5q7j68r5p280000gn/T/rust_mozprofilesuprk6/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.geeksforgeeks.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.geeksforgeeks.org."
